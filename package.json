@@ -5,11 +5,11 @@
   "main": "src/main.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:davidarias/grunt-browserify-boilerplate.git"
   },
   "author": "David Arias",
   "license": "Beerware",
-  "homepage": "",
+  "homepage": "https://github.com/davidarias/grunt-browserify-boilerplate",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-browserify": "^4.0.1",
