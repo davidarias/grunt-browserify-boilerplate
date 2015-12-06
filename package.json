@@ -1,0 +1,19 @@
+{
+  "name": "grunt-browserify-boilerplate",
+  "version": "1.0.0",
+  "description": "grunt browserify boilerplate",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "David Arias",
+  "license": "Beerware",
+  "homepage": "",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^4.0.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-http-server": "^1.13.0"
+  }
+}
